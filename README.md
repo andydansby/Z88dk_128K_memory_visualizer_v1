@@ -292,4 +292,15 @@ Once a program is compiled, you should get a .MAP file at the root directory of 
 
 Launch the z88dk memory visualizer
 
+Load the memory map (the map needs to have .map at the end)
+Wait a few moments as the program parces the map file
+You will now have a list of each of the routines and tabs at the top to view each of the routines in the area they are programmed.
+The tabs are lableled CONTENDED UNCONTENDED RAM0 RAM1 RAM3 RAM4 RAM6 and LIBRARY
+
+Select the Visual Memory button
+
+You will see 7 bars for each of the memory sections
+
+If you want to drill deeper with zoom, Right click  on a memory section and Select Zoom: XXXX
+right click on a memory chunk and use your mouse wheel to zoom in and out.
 
