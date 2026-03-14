@@ -1,0 +1,17 @@
+C:\Users\andym\Documents\Visual Studio 2010\Projects\Z88dk memory visualizer\Z88dk memory visualizer\obj\x86\Debug\Z88dk memory visualizer.exe
+C:\Users\andym\Documents\Visual Studio 2010\Projects\Z88dk memory visualizer\Z88dk memory visualizer\obj\x86\Debug\Z88dk memory visualizer.pdb
+C:\Users\andym\Documents\Visual Studio 2010\Projects\Z88dk memory visualizer\Z88dk memory visualizer\obj\x86\Debug\Z88dk_memory_visualizer.Form1.resources
+C:\Users\andym\Documents\Visual Studio 2010\Projects\Z88dk memory visualizer\Z88dk memory visualizer\obj\x86\Debug\Z88dk_memory_visualizer.Properties.Resources.resources
+C:\Users\andym\Documents\Visual Studio 2010\Projects\Z88dk memory visualizer\Z88dk memory visualizer\obj\x86\Debug\Z88dk_memory_visualizer.visual_memory.resources
+C:\Users\andym\Documents\Visual Studio 2010\Projects\Z88dk memory visualizer\Z88dk memory visualizer\obj\x86\Debug\Z88dk memory visualizer.csproj.GenerateResource.Cache
+C:\Users\andym\Documents\Visual Studio 2010\Projects\Z88dk memory visualizer\Z88dk memory visualizer\bin\Debug\Z88dk memory visualizer.exe
+C:\Users\andym\Documents\Visual Studio 2010\Projects\Z88dk memory visualizer\Z88dk memory visualizer\bin\Debug\Z88dk memory visualizer.pdb
+C:\Users\andyd\documents\visual studio 2010\Projects\Z88dk memory visualizer\Z88dk memory visualizer\bin\Debug\Z88dk memory visualizer.exe
+C:\Users\andyd\documents\visual studio 2010\Projects\Z88dk memory visualizer\Z88dk memory visualizer\bin\Debug\Z88dk memory visualizer.pdb
+C:\Users\andyd\documents\visual studio 2010\Projects\Z88dk memory visualizer\Z88dk memory visualizer\obj\x86\Debug\Z88dk memory visualizer.csprojResolveAssemblyReference.cache
+C:\Users\andyd\documents\visual studio 2010\Projects\Z88dk memory visualizer\Z88dk memory visualizer\obj\x86\Debug\Z88dk_memory_visualizer.Form1.resources
+C:\Users\andyd\documents\visual studio 2010\Projects\Z88dk memory visualizer\Z88dk memory visualizer\obj\x86\Debug\Z88dk_memory_visualizer.Properties.Resources.resources
+C:\Users\andyd\documents\visual studio 2010\Projects\Z88dk memory visualizer\Z88dk memory visualizer\obj\x86\Debug\Z88dk_memory_visualizer.visual_memory.resources
+C:\Users\andyd\documents\visual studio 2010\Projects\Z88dk memory visualizer\Z88dk memory visualizer\obj\x86\Debug\Z88dk memory visualizer.csproj.GenerateResource.Cache
+C:\Users\andyd\documents\visual studio 2010\Projects\Z88dk memory visualizer\Z88dk memory visualizer\obj\x86\Debug\Z88dk memory visualizer.exe
+C:\Users\andyd\documents\visual studio 2010\Projects\Z88dk memory visualizer\Z88dk memory visualizer\obj\x86\Debug\Z88dk memory visualizer.pdb
